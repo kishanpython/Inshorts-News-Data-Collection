@@ -1,0 +1,17 @@
+# Inshorts-News-Dataset
+<img src="/assets/Inshorts.png" width="500" height="300" />
+
+This repository contain the data that I collected on daily basis from `inshorts` news webapp. This dataset have 3 columns named as `news_headline`, `news_article`, and `news_category`. It also contain news from 7 different categories like `technology`,`sports`,`politics`,`entertainment`,`world`,`automobile` and `science`.
+
+Data sample :- 
+
+
+| news_headline | news_article  | news_category|
+| ------------- |:-------------:| -----:|
+| Musk's Boring Company shares a glimpse of Las Vegas loop station | The Boring Company shared a short clip on Twitter showing one of the underground stations that the company is building as part of its Las Vegas Convention Center (LVCC) loop. In September, Founder Elon Musk said the first operational tunnel under Vegas was almost complete. ""Tunnels under cities with self-driving electric cars will feel like warp drive,"" he had added.|**technology**| 
+| I am not Dhoni: Wade heard saying on stump mic after missed stumping | Australia stand-in captain and wicketkeeper Matthew Wade was heard saying 'I am not Dhoni, not quick enough like Dhoni' on stump mic after a narrow stumping miss in the second T20I. Team India batsman Shikhar Dhawan, who was on the striker's end, was seen acknowledging Wade's statement with a nod. This happened in the ninth over of India's innings.|**sports**|
+| US reports nearly 2.3 lakh coronavirus cases on Saturday | The US on Saturday reported its highest rise in daily coronavirus cases at nearly 2.3 lakh, according to the Johns Hopkins University tracker. The death toll from coronavirus rose by 2,607 on the same day, the data showed. The US is the worst coronavirus-hit country with nearly 1.46 crore coronavirus cases and over 2.81 lakh COVID-19 deaths.|**world**|
+| CAA likely to be implemented from January: Vijayvargiya in Bengal  |  BJP's National General Secretary Kailash Vijayvargiya on Saturday said that the Citizenship (Amendment) Act is likely to be implemented from January next year, as the Centre is keen to grant citizenship to the large refugee population in West Bengal. TMC leader and West Bengal minister Firhad Hakim said that the BJP is trying to fool the people of West Bengal.|**politics**|
+| Rahul Roy's 1st video from hospital as he recovers from brain stroke surfaces | Actor Rahul Roy, who recently suffered a brain stroke is currently being treated in Mumbai's Nanavati Hospital. In a video shared by Times of India, the actor, who is recovering, can be seen smiling and waving at the camera. He suffered a brain stroke in Kargil where he was shooting for his film and was airlifted from Kargil to Mumbai. |**entertainment**|
+| Astronaut harvests first-ever radishes grown in space, NASA shares pic. |NASA astronaut and flight engineer Kate Rubins harvested the first-ever radish crop grown on the International Space Station. She wrapped in foil each of the 20 radish plants, placing them in cold storage to be returned to Earth in 2021. The space-grown radishes will be compared to the radishes grown at the Kennedy Space Center in Florida. |**science**|
+| Tesla's market value crosses $500 bn as shares surge six-fold this year. | Tesla Inc crossed $500 billion in market value on Tuesday as its share price surged six-fold this year. Tesla's shares rose as much as 3.9% to a record high of $542.35 in early trading. CEO Elon Musk has added $100.3 billion to his net worth so far this year, according to the Bloomberg Billionaires Index. | **automobile** |
